@@ -4,8 +4,7 @@ Hello World!
 - -🖥️ My portfolio: [Visit My Portfolio](https://portfolio-xi-eosin-98.vercel.app/)
 - - 📫 Reach me at: [bhawanasharma862@gmail.com](mailto:bhawanasharma862@gmail.com)
 ## 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="animation: bounce 2s infinite;">
+**
 
 
