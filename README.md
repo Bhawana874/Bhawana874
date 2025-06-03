@@ -6,7 +6,7 @@
 ## 🛠️ Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="animation: bounce 2s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="animation: bounce 2s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="animation: shake 2s infinite;"><img src="https://vitejs.dev/logo.svg" alt="vite" width="50" height="50" style="animation: pulse 2s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="animation: spin 3s linear infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="animation: beat 1.5s infinite;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="animation: float 3s ease-in-out infinite;">
 
-![Bhawana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhawana874&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhawana874&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhawana874&theme=dark)
 
 
 
